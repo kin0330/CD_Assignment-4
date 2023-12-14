@@ -3,7 +3,7 @@
 ## Corpus
 This corpus contains three English books that were obtained from Project Gutenberg, specifically from the Children's Book section with the theme of Christmas. I'm curious to discover the primary settings for the events in children's Christmas books.
 
-I used the requests function in pandas to retrieve these books. You can access the original text of the books, namely *[Christmas Eve](https://www.gutenberg.org/ebooks/6670)*, *[The Christmas Child](https://www.gutenberg.org/ebooks/20453)*, and *[The Christmas Dinner](https://www.gutenberg.org/ebooks/14508)*, by following the provided links. 
+I used the requests function in pandas to retrieve these books. You can access the original text of the books, namely *[Christmas Eve](https://www.gutenberg.org/ebooks/6670)*, *[The Christmas Child](https://www.gutenberg.org/ebooks/20453)*, and *[The Christmas Dinner](https://www.gutenberg.org/ebooks/14508)*, by following the provided links or in the txt_files folder.
 
 It's important to note that these books are in the public domain, and you can refer to the **LICENSE** file for more information.
 
